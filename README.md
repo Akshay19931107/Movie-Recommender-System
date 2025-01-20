@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-# Movie Recommender System
+
 
 ## Overview
 This project is a movie recommender system that suggests similar movies based on user preferences. It is implemented using Python and provides a web-based user interface powered by Streamlit. The recommendation is performed using Singular Value Decomposition (SVD) to reduce dimensionality and cosine similarity for identifying similar movies.
